@@ -89,7 +89,7 @@ Each pattern documentation includes:
 This design patterns collection is maintained and documented with contributions from:
 
 ### Primary Contributors
-- Zia (Project Creator & Maintainer) + Vibe Coding with GH Copilot Agent
+- Zia (Project Creator & Maintainer) + Vibe Coding with GH Copilot & other AI Agents 
 
 ### References & Inspiration
 - "Design Patterns: Elements of Reusable Object-Oriented Software" by Gang of Four
